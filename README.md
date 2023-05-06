@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Adhars Rajasekharan Nair</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" alt="adharsrajashekharan" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adharsrajashekharan" alt="adharsrajashekharan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
