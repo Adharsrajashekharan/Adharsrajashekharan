@@ -5,7 +5,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adharsrajashekharan" alt="adharsrajashekharan" /></a> </p>
 
