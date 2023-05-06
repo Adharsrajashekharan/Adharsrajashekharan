@@ -3,12 +3,13 @@
 <h1 align="center">Hi 👋, I'm Adhars Rajasekharan Nair</h1>
 <h3 align="center">"Hi there! I'm a Full Stack MERN Developer with experience building web applications from start to finish. My expertise lies in developing scalable and efficient solutions using the MERN stack (MongoDB, Express, React, Node.js). Let's build something great together!"</h3>
 
-<p style="float: right;">
+<p style="text-align: center;">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" 
     alt="adharsrajashekharan"
     style="width: 400px; height: 300px; object-fit: cover;"
   />
 </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adharsrajashekharan" alt="adharsrajashekharan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
