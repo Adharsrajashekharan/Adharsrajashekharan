@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Adhars Rajasekharan Nair</h1>
+<h1 align="center">Hi 👋, I'm Adhars Rajashekharan</h1>
 <h3 align="center">I'm a Full StackDeveloper with experience building web applications</br>Developing scalable and efficient solutions using the MERN stack (MongoDB, Express, React, Node.js)</br> Let's build something great together!"</h3>
 
 <p style="text-align: center;">
