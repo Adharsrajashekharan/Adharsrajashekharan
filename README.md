@@ -6,9 +6,10 @@
 <p style="text-align: center;">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" 
     alt="adharsrajashekharan"
-    style="width: 400px; height: 300px; object-fit: cover;"
+    style="width: 400px; height: 300px; object-fit: cover; margin-left: 50%;"
   />
 </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adharsrajashekharan" alt="adharsrajashekharan" /></a> </p>
 
