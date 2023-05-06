@@ -26,4 +26,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adharsrajashekharan&" alt="adharsrajashekharan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adharsrajashekharan&" alt="adharsrajashekharan" /></p>
